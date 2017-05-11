@@ -1,4 +1,9 @@
-# uORFs
+## README Author: Patrick McGillivray
+
+## The following README file documents the procedure for generating a genome-wide set
+## of predicted positive (translated) uORFs, as described in the manuscript “A
+## comprehensive catalog of predicted functional upstream open reading frames” by Patrick ## McGillivray, Russell Ault, Mayur Pawashe, Robert Kitchen, Suganthi Balasubramanian,
+## and Mark Gerstein
 
 ## Acquire translated uORF locations from source data:
 
